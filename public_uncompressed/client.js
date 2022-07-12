@@ -329,7 +329,6 @@
         '<span>🤖</span> BOT VS BOT',
         '<span>🌎</span> PLAY ONLINE',
         '<span>🤝</span> PLAY WITH A FRIEND',
-        '<span>🎉</span> PARTY MODE',
       ]
         .map(
           (v, i) =>

@@ -345,7 +345,7 @@ button {
 
 /* Para el título */
 .ti {
-  background: var(--c-y);
+  background: var(--c-b);
   color: var(--c-w);
   flex-direction: column;
   font-size: 40px;
