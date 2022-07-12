@@ -349,7 +349,6 @@
         <div class='cb ce'>
           ${renderButtons()}
         </div>
-        <h3>Developed by: <a href='https://twitter.com/ostjh' target='_blank' rel='noopener noreferrer'>Jorge Rubiano</h3>
       </div>`
     );
 
